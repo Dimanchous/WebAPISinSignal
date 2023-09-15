@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ZDQ7NSPKaK6gmSAR7JU23BWPlcYoWLsSSwe/gaN/+NODhuB1qmFSd400lrsPPVzWzjjdCfwoIj657mFhu+FNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dima5\\source\\repos\\neo\\neo\\neo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dima5\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\dima5\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
